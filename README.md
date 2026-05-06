@@ -13,7 +13,3 @@ that uses AI to predict danger and monitor women's health in real time
 
 Built with: Flutter • Firebase • Node.js • TensorFlow Lite • Google Maps SDK • Twilio SMS • Bluetooth BLE
 
-Team Zenith · MVSR Engineering College
-=======
-# sheild_app1
->>>>>>> 5b6ae26fcc161ff49de779cdc7544614af434aa8
