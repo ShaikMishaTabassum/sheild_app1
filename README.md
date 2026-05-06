@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SHEild
 
 SHEild is a Flutter mobile app paired with a smart ESP32 wristband 
